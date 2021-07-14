@@ -58,6 +58,12 @@ header {
     font-size: 12px;
     text-transform: uppercase;
 }
+.header-navigation ul li:nth-child(1) a {
+    color: #5863F8;
+}
+.header-navigation ul li a:hover {
+    color: #5863F8;
+}
 .burger-bar {
     display: none;
 }
